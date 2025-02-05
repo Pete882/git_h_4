@@ -1,0 +1,112 @@
+body {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.caja_1{
+    background-color: black;
+    margin: 5vh auto;
+    width: 70px;
+    height: 6px;
+    margin-left: 810px;
+    
+}
+
+.caja_2 {
+    font-size: 40px;
+    width: 50%;
+    margin-bottom: 2px;
+    margin-top: 2px;  
+    text-align: center;
+    margin-left: 420px;
+    font-family: 'RUDA', sans-serif;
+         
+}
+
+.caja_3 {
+    font-size: 150px;
+    width: 50%;
+    margin-bottom: 1px;
+    margin-top: 0.5px;  
+    text-align: center;
+    margin-left: 420px; 
+    color: #B88940;
+    font-family: 'RUDA', sans-serif;
+         
+}
+
+.caja_4 {
+    font-size: 55px;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-top: 5px;  
+    text-align: center;
+    margin-left: 420px;
+    font-family: 'RUDA', sans-serif;
+    font-weight: 600;
+         
+}
+
+.caja_5 {
+    font-size: 25px;
+    font-weight: bold;
+    width: 50%;
+    margin-bottom: 100px;
+    margin-top: 1px;  
+    text-align: center;
+    margin-left: 420px;
+    font-weight: bold;
+    font-family: 'Catamaran', sans-serif;
+}
+
+
+.secciones {
+    background-color: #FFBD59;
+    padding: 20px;
+    margin: 5vh auto;
+    background-position: center bottom;
+    width: 1500px;
+}
+
+.caja {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 480px;
+    left: 400px;
+}
+
+.box {
+    margin-left: 10px;
+}
+
+.box h3 {
+    font-size: 30px;
+    font-family: 'Catamaran', sans-serif;
+}
+.box img {
+    width: 300px;
+}
+
+
+.pie  h4{
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+    color: #B88940; 
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    
+}
+
+.pie p {
+    font-size: 26px;
+    text-align: center; 
+    margin-top: 2px;
+    font-family: 'Catamaran', sans-serif;
+    
+}
